@@ -1,0 +1,16 @@
+Common Hacking Techniques
+
+1.key logging
+2.fake wireless point wap 
+3.Phishing
+4.clickjacking
+5.trojan attack
+6.cookie theft
+7.Denial-of-service (DoS) and distributed denial-of-service (DDoS) attacks
+8.Man-in-the-middle (MitM) attack
+9.Phishing and spear phishing attacks
+10.Drive-by attack
+11.Password attack
+12.SQL injection attack
+13.Cross-site scripting (XSS) attack
+14.Eavesdropping attackNo system is safeNo system is safeNo system is safe
